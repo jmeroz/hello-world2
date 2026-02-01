@@ -1,2 +1,4 @@
 Homer
 Marge
+Bart
+Lisa
